@@ -50,24 +50,21 @@
  
 \pagestyle{fancy}
 \fancyhf{}
- 
 \begin{document}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     LAST UPDATED DATE
 %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\lastupdated
+%\lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Debarghya}{Das}{ \urlstyle{same}\href{http://debarghyadas.com}{debarghyadas.com}| \href{http://fb.co/dd}{fb.co/dd}\\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
-}
+\namesection{Michael}{Shullick}{ 
+440.752.0467 | \href{mailto:mxs9342@rit.edu}{mxs9342@rit.edu}\\}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -83,60 +80,40 @@
 
 \section{Education} 
 
-\subsection{Cornell University}
-\descript{MEng in Computer Science}
-\location{Dec 2014 | Ithaca, NY}
+\subsection[Rochester Institute of Technology]{\texorpdfstring{Rochester Institute \\ of Technology}{Rochester Institute of Technology}}
+\descript{BS in Computer Engineering}
+\location{Expected May 2019 | Rochester, NY}
+\location{ GPA: 3.7 / 4.0 }
+\location{Honors, Dean's List,}
+\location{Presidential Scholarship}
 \sectionsep
 
-\subsection{Cornell University}
-\descript{BS in Computer Science}
-\location{May 2014 | Ithaca, NY}
-College of Engineering \\
-Magna Cum Laude\\
-\location{ Cum. GPA: 3.83 / 4.0 \\
-Major GPA: 3.9 / 4.0}
+\location{Lab Courses}
+Assembly Language Programming \\
+Circuit Analysis I \& II\\
+Computer Science I \& II \\
+Digital System Design I \& II \\
+Electronics I\\
 \sectionsep
 
-\subsection{La Martiniere for Boys}
-\location{Grad. May 2011|  Kolkata, India}
-\sectionsep
+%\subsection*{St. Edward High School}
+%\location{Cleveland, OH}
+%\location{IB Diploma - May 2014}
+%\location{FIRST Robotics Captain}
+%\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
-Facebook:// \href{https://facebook/dd}{\bf dd} \\
-Github:// \href{https://github.com/deedydas}{\bf deedydas} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
-YouTube://  \href{https://www.youtube.com/user/DeedyDash007}{\bf DeedyDash007} \\
-Twitter://  \href{https://twitter.com/debarghya_das}{\bf @debarghya\_das} \\
-Quora://  \href{https://www.quora.com/Debarghya-Das}{\bf Debarghya-Das}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-\subsection{Graduate}
-Advanced Machine Learning \\
-Open Source Software Engineering \\
-Advanced Interactive Graphics \\
-Compilers + Practicum \\
-Cloud Computing \\
-Evolutionary Computation \\
-Defending Computer Networks \\
-Machine Learning \\
-\sectionsep
-
-\subsection{Undergraduate}
-Information Retrieval \\
-Operating Systems \\
-Artificial Intelligence + Practicum \\
-Functional Programming \\
-Computer Graphics + Practicum \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Teaching Asst 2x) }}} \\
-Unix Tools and Scripting \\
+Facebook:// \href{https://facebook.com/mshullick}{\bf mshullick} \\
+Github:// \href{https://github.com/owltheory}{\bf owltheory} \\
+LinkedIn://  \href{https://www.linkedin.com/in/mshullick}{\bf mshullick} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -144,13 +121,51 @@ Unix Tools and Scripting \\
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\ 
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
-\location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+\location{Languages}
+C \textbullet{} C++ \\
+ARM Cortex-M0+ Assembly \\
+Java \textbullet{} Python \textbullet{} C\# \\
+Javascript \textbullet{}
+PHP \textbullet{} 
+CSS \\
+
+\sectionsep
+
+\location{Tools:}
+ROS \textbullet{}
+OpenCV \\
+MVC Design \textbullet{}
+\LaTeX \textbullet{}
+VHDL \textbullet{}
+Bash \\
+Octave \textbullet{}
+Neural Networks \\
+Linear/Logistic Regression \\
+JQuery \textbullet{} CMake
+\sectionsep
+
+\subsection{Hardware}
+Oscilliscopes \textbullet{} FPGAs  \\
+Digital Logic Circuit Design \\
+Arduino \textbullet{} Raspberry Pi  \\
+\sectionsep
+
+
+\subsection{Software}
+Altera Quartus II \\
+Xilinx ISE \textbullet{} Modelsim \\
+Linux \textbullet{}
+Subversion \textbullet{}
+Git \\
+IntelliJ \textbullet{}
+PyCharm \textbullet{}
+Netbeans \\
+MySQL \textbullet{}
+Microsoft Office \\ 
+PTC Creo \textbullet{}
+Autodesk Inventor \\
+Apache \textbullet{} Django \\
+
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -167,77 +182,85 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\section{Objective}
+A computer engineering co-op through the summer and fall of 2016.\\
+Seeking~experience with automation, robotics, and machine learning.
+
 \section{Experience}
-\runsubsection{Facebook}
-\descript{| Software Engineer }
-\location{Jan 2015 - Present | New York, NY}
+
+\subsection{Rochester Institute of Technology}
+\descript{Teaching Assistant for Digital Systems Design I}
+\location{Jan 2015 - Present | Rochester, NY}
+
+\descript{Student Lab Instructor for CS I - Python}
+\location{Aug 2015 - Dec 2015 | Rochester, NY}
 \sectionsep
 
-\runsubsection{Coursera}
-\descript{| KPCB Fellow + Software Engineering Intern }
-\location{June 2014 – Sep 2014 | Mountain View, CA}
+\subsection{Force Robots, LLC}
+\descript{Software Internship}
+\location{May 2015 – Aug 2015 | Cleveland, OH}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}\item 52 out of 2500 applicants chosen to be a KPCB Fellow 2014.
-\item Led and shipped Yoda - the admin interface for the new Phoenix platform. 
-\item Full-stack developer - Wrote and reviewed code for JS using Backbone, Jade, Stylus and Require and Scala using Play
+\begin{tightemize}
+\item Contributed to software development for an articulate robot designed to finish casted and machined components
+\item Wrote a function that could identify part features using OpenCASCADE C++ CAD library in order to work towards making the robot more easily "teachable"
+\item Independently developed a specialized JQuery plugin for graphing data useful to robot programming
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Google}
-\descript{| Software Engineering Intern }
-\location{May 2013 – Aug 2013 | Mountain View, CA}
+\subsection{RIT - National Technical Institute of the Deaf}
+\descript{Video Production Assistant}
+\location{Sep 2014 – May 2015 | Rochester, NY}
 \begin{tightemize}
-\item Worked on the YouTube Captions team, in Javascript and Python to plan, to design and develop the full stack to add and edit Automatic Speech Recognition captions. In production.\item Created a backbone.js-like framework for the Captions editor.\end{tightemize}
+\item Edited deaf-oriented productions using Final Cut Pro and Adobe Premier
+\item Live-event camera operator
+\item Provided general troubleshooting and support between software updates
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Phabricator}
-\descript{| Open Source Contributor \& Team Leader}
-\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
-\begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.\item I created the Meme generator and more in PHP and Shell.\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.\end{tightemize}
+%\subsection{ST. EDWARD HIGH SCHOOL}
+%\descript{IT Assistant}
+%\location{Summer 2014 | Cleveland, OH}
+%\descript{Engineering Enrichment Camp Counselor}
+%\location{Summers 2012-13 | Cleveland, OH}
+%\sectionsep
+
+% kept for example
+%\subsection{Phabricator}
+%\descript{| Open Source Contributor \& Team Leader}
+%\location{Jan 2013 – May 2013 | Palo Alto, CA \& Ithaca, NY}
+%\begin{tightemize}
+%\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
+%\item I created the Meme generator and more in PHP and Shell.
+%\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+%\end{tightemize}
+%\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\runsubsection{Chess-Playing Robot}
+\descript{| Personal Side Project}
+\location{August 2015 – Present | Rochester, NY}
+\location{ROS package at http://git.io/vuc3t}
+Independently building robot arm based on Raspberry Pi capable of playing chess. Using open source tools ROS, OpenCV, and Stockfish chess engine. Design based on ABB PalletPack.
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Research}
-\runsubsection{Cornell Robot Learning Lab}
-\descript{| Researcher}
-\location{Jan 2014 – Jan 2015 | Ithaca, NY}
-Worked with \textbf{\href{http://www.cs.cornell.edu/~ashesh/}{Ashesh Jain}} and \textbf{\href{http://www.cs.cornell.edu/~asaxena/}{Prof Ashutosh Saxena}} to create \textbf{PlanIt}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+\runsubsection{Mindcloud Idea Network}
+\descript{| ImagineRIT Exhibit}
+\location{Jan 2015 – May 2015 | Rochester, NY}
+\location{http://mindcloud.io}
+% Change to start with action verbs 
+% "Gained familiarity with ... [specifics]"
+% drop "dabble ..." and reword
+% "Served as lead developer ..." 
+Lead development of a social network platform aiming to crowdsource problem-solving. Built from scratch a PHP-powered MVC backend and designed a frontend based on the JQuery framework Foundation. Explored entrepeneurial opportunities. Presented at RIT's Creativity and Innovation festival.
 \sectionsep
 
-\runsubsection{Cornell Phonetics Lab}
-\descript{| Head Undergraduate Researcher}
-\location{Mar 2012 – May 2013 | Ithaca, NY}
-Led the development of \textbf{QuickTongue}, the first ever breakthrough tongue-controlled game with \textbf{\href{http://conf.ling.cornell.edu/~tilsen/}{Prof Sam Tilsen}} to aid in Linguistics research. 
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-\end{tabular}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-\bibliographystyle{abbrv}
-\bibliography{publications}
-\nocite{*}
-
+\runsubsection{Shoptimize} 
+\descript{| Student Entrepreneurship Project}
+\location{Aug 2014 – Jan 2015 | Cleveland, OH}
+Lead development of Shoptimize grocery-shopping optimization mobile web application. Built a PHP-backend from scratch and contributed to a JQuery based frontend.  
 \end{minipage} 
 \end{document}  \documentclass[]{article}
