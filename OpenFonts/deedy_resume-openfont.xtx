@@ -112,7 +112,7 @@ Electronics I\\
 
 \section{Links} 
 Facebook:// \href{https://facebook.com/mshullick}{\bf mshullick} \\
-Github:// \href{https://github.com/owltheory}{\bf owltheory} \\
+Github:// \href{https://github.com/shoelick}{\bf shoelick} \\
 LinkedIn://  \href{https://www.linkedin.com/in/mshullick}{\bf mshullick} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -179,14 +179,29 @@ Apache \textbullet{} Django \\
 \begin{minipage}[t]{0.66\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXPERIENCE
+%     OBJECTIVE/SUMMARY
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Objective}
-A computer engineering co-op through the summer and fall of 2016.\\
+A computer engineering co-op through the summer 2017.
 Seeking~experience with automation, robotics, and machine learning.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EXPERIENCE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \section{Experience}
+
+\subsection{Rockwell Automation}
+\descript{Embedded Software Engineer Co-op}
+\location{May 2016 – Jan 2017 | Mayfield Heights, OH}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item Maintained prototype firmware for next generation of analog I/O modules, including driver development and implementing tests for EMC verification.
+\item Co-Project Manager and developer for co-op driven machine vision-enabled checkers-playing robot project.
+\item Contributed to general firmware development of safety-certified next-generation PLC I/O modules.
+\end{tightemize}
+\sectionsep
 
 \subsection{Rochester Institute of Technology}
 \descript{Teaching Assistant for Digital Systems Design I}
@@ -199,7 +214,7 @@ Seeking~experience with automation, robotics, and machine learning.
 \subsection{Force Robots, LLC}
 \descript{Software Internship}
 \location{May 2015 – Aug 2015 | Cleveland, OH}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Contributed to software development for an articulate robot designed to finish casted and machined components
 \item Wrote a function that could identify part features using OpenCASCADE C++ CAD library in order to work towards making the robot more easily "teachable"
@@ -251,16 +266,12 @@ Independently building robot arm based on Raspberry Pi capable of playing chess.
 \descript{| ImagineRIT Exhibit}
 \location{Jan 2015 – May 2015 | Rochester, NY}
 \location{http://mindcloud.io}
-% Change to start with action verbs 
-% "Gained familiarity with ... [specifics]"
-% drop "dabble ..." and reword
-% "Served as lead developer ..." 
-Lead development of a social network platform aiming to crowdsource problem-solving. Built from scratch a PHP-powered MVC backend and designed a frontend based on the JQuery framework Foundation. Explored entrepeneurial opportunities. Presented at RIT's Creativity and Innovation festival.
+Lead development of a website similar to Quora, but focused on market discovery and product innovation. Built from scratch a PHP-powered MVC backend and designed a frontend based on the JQuery framework Foundation. Explored entrepeneurial opportunities. Presented at RIT's Creativity and Innovation festival.
 \sectionsep
 
-\runsubsection{Shoptimize} 
-\descript{| Student Entrepreneurship Project}
-\location{Aug 2014 – Jan 2015 | Cleveland, OH}
-Lead development of Shoptimize grocery-shopping optimization mobile web application. Built a PHP-backend from scratch and contributed to a JQuery based frontend.  
+%\runsubsection{Shoptimize} 
+%\descript{| Student Entrepreneurship Project}
+%\location{Aug 2014 – Jan 2015 | Cleveland, OH}
+%Lead development of Shoptimize grocery-shopping optimization mobile web application. Built a PHP-backend from scratch and contributed to a JQuery based frontend.  
 \end{minipage} 
 \end{document}  \documentclass[]{article}
