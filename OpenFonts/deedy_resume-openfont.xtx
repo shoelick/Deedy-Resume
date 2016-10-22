@@ -83,10 +83,14 @@
 \subsection[Rochester Institute of Technology]{\texorpdfstring{Rochester Institute \\ of Technology}{Rochester Institute of Technology}}
 \descript{BS in Computer Engineering}
 \location{Expected May 2019 | Rochester, NY}
-\location{ GPA: 3.7 / 4.0 }
+\location{ GPA: 3.6 / 4.0 }
 \location{Honors, Dean's List,}
 \location{Presidential Scholarship}
 \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \location{Lab Courses}
 Assembly Language Programming \\
@@ -94,6 +98,7 @@ Circuit Analysis I \& II\\
 Computer Science I \& II \\
 Digital System Design I \& II \\
 Electronics I\\
+Interface \& Digital Electronics \\
 \sectionsep
 
 %\subsection*{St. Edward High School}
@@ -103,10 +108,6 @@ Electronics I\\
 %\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -114,6 +115,7 @@ Electronics I\\
 Facebook:// \href{https://facebook.com/mshullick}{\bf mshullick} \\
 Github:// \href{https://github.com/shoelick}{\bf shoelick} \\
 LinkedIn://  \href{https://www.linkedin.com/in/mshullick}{\bf mshullick} \\
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
@@ -122,49 +124,40 @@ LinkedIn://  \href{https://www.linkedin.com/in/mshullick}{\bf mshullick} \\
 \section{Skills}
 \subsection{Programming}
 \location{Languages}
-C \textbullet{} C++ \\
+C++ \textbullet{} C \textbullet{} VHDL \\
 ARM Cortex-M0+ Assembly \\
-Java \textbullet{} Python \textbullet{} C\# \\
-Javascript \textbullet{}
-PHP \textbullet{} 
-CSS \\
+Python \textbullet{} Java \textbullet{} C\# \\
+Javascript \textbullet{} PHP \textbullet{} CSS \\
 
 \sectionsep
 
 \location{Tools:}
-ROS \textbullet{}
-OpenCV \\
-MVC Design \textbullet{}
-\LaTeX \textbullet{}
-VHDL \textbullet{}
-Bash \\
-Octave \textbullet{}
-Neural Networks \\
-Linear/Logistic Regression \\
-JQuery \textbullet{} CMake
+ROS \textbullet{} OpenCV \\ 
+Machine Learning \textbullet \LaTeX \\
+Octave \textbullet{} Bash \\
+
 \sectionsep
 
 \subsection{Hardware}
 Oscilliscopes \textbullet{} FPGAs  \\
 Digital Logic Circuit Design \\
-Arduino \textbullet{} Raspberry Pi  \\
+Numerous Development Boards
 \sectionsep
 
 
 \subsection{Software}
 Altera Quartus II \\
 Xilinx ISE \textbullet{} Modelsim \\
+Keil $\mu$Vision \textbullet{} IAR Workbench \\
 Linux \textbullet{}
 Subversion \textbullet{}
 Git \\
 IntelliJ \textbullet{}
 PyCharm \textbullet{}
 Netbeans \\
-MySQL \textbullet{}
-Microsoft Office \\ 
 PTC Creo \textbullet{}
-Autodesk Inventor \\
-Apache \textbullet{} Django \\
+Autodesk Inventor \\ 
+Solidworks
 
 \sectionsep
 
@@ -183,8 +176,8 @@ Apache \textbullet{} Django \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Objective}
-A computer engineering co-op through the summer 2017.
-Seeking~experience with automation, robotics, and machine learning.
+An engineering internship for the summer of 2017. \\
+%Seeking experience in robotics and machine learning.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -193,32 +186,33 @@ Seeking~experience with automation, robotics, and machine learning.
 \section{Experience}
 
 \subsection{Rockwell Automation}
-\descript{Embedded Software Engineer Co-op}
+\descript{Embedded Software Engineer - Co-op}
 \location{May 2016 – Jan 2017 | Mayfield Heights, OH}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Maintained prototype firmware for next generation of analog I/O modules, including driver development and implementing tests for EMC verification.
-\item Co-Project Manager and developer for co-op driven machine vision-enabled checkers-playing robot project.
-\item Contributed to general firmware development of safety-certified next-generation PLC I/O modules.
+\item Maintained prototype firmware for next generation of I/O modules, including driver development and implementing tests for EMC verification.
+\item Contributed to general firmware development of safety-certified next-generation PLC I/O modules on an international team of developers.
+\item Served as co-project manager of co-op led Career Fair Project: a checkers-playing robot gantry. Responsibilities included maintaining project timelines and communication between team, managers, and vendors.
+\item Designed a simple machine vision API and gained experience sizing motors and gearboxes based on a system's torque and inertia requirements.
 \end{tightemize}
 \sectionsep
 
 \subsection{Rochester Institute of Technology}
 \descript{Teaching Assistant for Digital Systems Design I}
-\location{Jan 2015 - Present | Rochester, NY}
+\location{Jan 2016 - May 2016 | Rochester, NY}
 
 \descript{Student Lab Instructor for CS I - Python}
 \location{Aug 2015 - Dec 2015 | Rochester, NY}
 \sectionsep
 
 \subsection{Force Robots, LLC}
-\descript{Software Internship}
+\descript{Software Development Intern}
 \location{May 2015 – Aug 2015 | Cleveland, OH}
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Contributed to software development for an articulate robot designed to finish casted and machined components
-\item Wrote a function that could identify part features using OpenCASCADE C++ CAD library in order to work towards making the robot more easily "teachable"
-\item Independently developed a specialized JQuery plugin for graphing data useful to robot programming
+\item Contributed to both backend and frontend software development for an articulate robot designed to finish casted and machined components.
+\item Independently developed a specialized JQuery plugin for graphing data useful to robot programming.
+\item Made deployment of code easier by setting up CMake with a large project and creating a distributable package.
 \end{tightemize}
 \sectionsep
 
@@ -230,7 +224,7 @@ Seeking~experience with automation, robotics, and machine learning.
 \item Live-event camera operator
 \item Provided general troubleshooting and support between software updates
 \end{tightemize}
-\sectionsep
+%\sectionsep
 
 %\subsection{ST. EDWARD HIGH SCHOOL}
 %\descript{IT Assistant}
@@ -255,18 +249,16 @@ Seeking~experience with automation, robotics, and machine learning.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Projects}
-\runsubsection{Chess-Playing Robot}
+\runsubsection{Custom Robot Arm}
 \descript{| Personal Side Project}
-\location{August 2015 – Present | Rochester, NY}
-\location{ROS package at http://git.io/vuc3t}
-Independently building robot arm based on Raspberry Pi capable of playing chess. Using open source tools ROS, OpenCV, and Stockfish chess engine. Design based on ABB PalletPack.
+\location{August 2015 – September 2016 }
+Independently designed and fabricated a robot arm driven by a Raspberry Pi running ROS. Mechanical design based on ABB Palletpack. Learned how to train OpenCV cascade classifiers to identify chess pieces for potential robot application.
 \sectionsep
 
 \runsubsection{Mindcloud Idea Network}
 \descript{| ImagineRIT Exhibit}
 \location{Jan 2015 – May 2015 | Rochester, NY}
-\location{http://mindcloud.io}
-Lead development of a website similar to Quora, but focused on market discovery and product innovation. Built from scratch a PHP-powered MVC backend and designed a frontend based on the JQuery framework Foundation. Explored entrepeneurial opportunities. Presented at RIT's Creativity and Innovation festival.
+Lead development of a website similar to Quora, but focused on market discovery and product innovation. Built from scratch a PHP-based MVC backend and a frontend based on Foundation. Presented at RIT's Creativity and Innovation festival.
 \sectionsep
 
 %\runsubsection{Shoptimize} 
