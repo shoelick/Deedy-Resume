@@ -7,7 +7,7 @@ In the interest of having a professional-looking resume and not spending tons of
 
 ## Preview
 
-![alt tag](https://raw.githubusercontent.com/shoelick/Deedy-Resume/master/OpenFonts/sample-image.png)
+View the most recent rendering [here](https://raw.githubusercontent.com/shoelick/Deedy-Resume/master/OpenFonts/sample-image.png)
 
 ## Dependencies
 
