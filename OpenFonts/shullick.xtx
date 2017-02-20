@@ -200,6 +200,12 @@ Seeking experience with hardware design and machine learning.
 \sectionsep
 
 \subsection{Rochester Institute of Technology}
+\descript{Research Assistant}
+\location{Jan 2017 - Present | Rochester, NY}
+\begin{tightemize}
+\item Contributing to research on hierarchical temporal memory. Identifying opportunities for optimization and gaining experience with mainstream machine learning using distributed systems.
+\end{tightemize}
+
 \descript{Teaching Assistant for Digital Systems Design I}
 \location{Jan 2016 - May 2016 | Rochester, NY}
 
@@ -218,14 +224,14 @@ Seeking experience with hardware design and machine learning.
 \end{tightemize}
 \sectionsep
 
-\subsection{RIT - National Technical Institute of the Deaf}
-\descript{Video Production Assistant}
-\location{Sep 2014 – May 2015 | Rochester, NY}
-\begin{tightemize}
-\item Edited deaf-oriented productions using Final Cut Pro and Adobe Premier
-\item Live-event camera operator
-\item Provided general troubleshooting and support between software updates
-\end{tightemize}
+%\subsection{RIT - National Technical Institute of the Deaf}
+%\descript{Video Production Assistant}
+%\location{Sep 2014 – May 2015 | Rochester, NY}
+%\begin{tightemize}
+%\item Edited deaf-oriented productions using Final Cut Pro and Adobe Premier
+%\item Live-event camera operator
+%\item Provided general troubleshooting and support between software updates
+%\end{tightemize}
 %\sectionsep
 
 %\subsection{ST. EDWARD HIGH SCHOOL}
@@ -249,19 +255,26 @@ Seeking experience with hardware design and machine learning.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Projects
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Projects}
+
+\runsubsection{Vantage News Application}
+\descript{| ImagineRIT Exhibit}
+\location{Jan 2017 – Present | Rochester, NY}
+Leading development of a mobile application that makes it easier to be informed by relating similar stories, detecting fake news, and providing context through related history and primary sources. Learning to apply natural language processing and graph databases.
+\sectionsep
+
 \runsubsection{Custom Robot Arm}
 \descript{| Personal Side Project}
 \location{August 2015 – September 2016 }
 Independently designed and fabricated a robot arm driven by a Raspberry Pi running ROS. Mechanical design based on ABB Palletpack. Learned how to train OpenCV cascade classifiers to identify chess pieces for potential robot application.
 \sectionsep
 
-\runsubsection{Mindcloud Idea Network}
-\descript{| ImagineRIT Exhibit}
-\location{Jan 2015 – May 2015 | Rochester, NY}
-Lead development of a website similar to Quora, but focused on market discovery and product innovation. Built from scratch a PHP-based MVC backend and a frontend based on Foundation. Presented at RIT's Creativity and Innovation festival.
-\sectionsep
+
+%\runsubsection{Mindcloud Idea Network}
+%\descript{| ImagineRIT Exhibit}
+%\location{Jan 2015 – May 2015 | Rochester, NY}
+%Lead development of a website similar to Quora, but focused on market discovery and product innovation. Built from scratch a PHP-based MVC backend and a frontend based on Foundation. Presented at RIT's Creativity and Innovation festival.
+%\sectionsep
 
 %\runsubsection{Shoptimize} 
 %\descript{| Student Entrepreneurship Project}
